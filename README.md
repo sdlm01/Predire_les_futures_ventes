@@ -93,7 +93,3 @@ Source : [Kaggle](https://www.kaggle.com/) — Dataset de ventes en magasin (~3M
 
 ## Auteur
 Samuel Wankebosua — Projet personnel réalisé dans le cadre d'une montée en compétences Data Engineering (2024).
-
-## Auteur
-
-**Samuel Wankebosua** — Projet personnel réalisé dans le cadre d'une montée en compétences Data Engineering (2024).
